@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Implements voting process along with vote delegation",
+			"kind": "dev",
+			"methods": {},
+			"title": "Ballot",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/3_Ballot.sol": "timelock_"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/3_Ballot.sol": {
+			"keccak256": "0xcad1826e9361ed40495e6eaccdfd9eff6b500645020633995dde80e735e101a8",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://261ebcfaf4e0d75dded8ade9e774472df2fa8ea1b41ac4dd510bc4a843078bc4",
+				"dweb:/ipfs/Qmbx2mkGWnfZNSygsYn96zqxnwnPLL55t5xMquGW3NKrHK"
+			]
+		}
+	},
+	"version": 1
+}
